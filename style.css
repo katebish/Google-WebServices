@@ -1,0 +1,42 @@
+#map{
+    height: 250px;
+	width: 500px;
+	padding-left: 10px;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#map-monitor{
+	margin-left: 20px;
+}
+
+#map-monitor input{
+	margin-bottom: 20px;
+}
+
+#viewed-monitor{
+	margin-top: 20px;
+	margin-left: 20px;
+}
+		
+#place-monitor{
+	margin-left: 20px;
+}
+
+#place-search{
+	margin-left: 20px;
+}
+
+ul{
+	list-style-type: none;
+	padding-left: 5px;
+	padding-top: 0px;
+}
+li{
+	padding: 0px;
+}
+button{
+	border: none;
+}
